@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ResimGallery\ResimGallery\bin\Debug\ResimGallery.exe.config
+C:\Users\User\source\repos\ResimGallery\ResimGallery\bin\Debug\ResimGallery.exe
+C:\Users\User\source\repos\ResimGallery\ResimGallery\bin\Debug\ResimGallery.pdb
+C:\Users\User\source\repos\ResimGallery\ResimGallery\bin\Debug\ResimGallery.ORM.dll
+C:\Users\User\source\repos\ResimGallery\ResimGallery\bin\Debug\ResimGallery.ORM.pdb
+C:\Users\User\source\repos\ResimGallery\ResimGallery\obj\Debug\ResimGallery.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ResimGallery\ResimGallery\obj\Debug\ResimGallery.Form1.resources
+C:\Users\User\source\repos\ResimGallery\ResimGallery\obj\Debug\ResimGallery.Properties.Resources.resources
+C:\Users\User\source\repos\ResimGallery\ResimGallery\obj\Debug\ResimGallery.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ResimGallery\ResimGallery\obj\Debug\ResimGallery.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ResimGallery\ResimGallery\obj\Debug\ResimGallery.csproj.CopyComplete
+C:\Users\User\source\repos\ResimGallery\ResimGallery\obj\Debug\ResimGallery.exe
+C:\Users\User\source\repos\ResimGallery\ResimGallery\obj\Debug\ResimGallery.pdb
